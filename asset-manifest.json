@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.add0326e.css",
-    "main.js": "/static/js/main.3089326d.js",
-    "static/js/789.732f3b0a.chunk.js": "/static/js/789.732f3b0a.chunk.js",
-    "static/js/439.312f5ed2.chunk.js": "/static/js/439.312f5ed2.chunk.js",
+    "main.css": "/static/css/main.70669080.css",
+    "main.js": "/static/js/main.49ad4bc2.js",
+    "static/js/439.7a096bd3.chunk.js": "/static/js/439.7a096bd3.chunk.js",
+    "static/media/transparent_b.gif": "/static/media/transparent_b.0f20c794d5b18561db1d.gif",
     "static/media/tymish_v2_transparent-05.png": "/static/media/tymish_v2_transparent-05.2a362558f9e56c3f1f10.png",
     "index.html": "/index.html",
-    "main.add0326e.css.map": "/static/css/main.add0326e.css.map",
-    "main.3089326d.js.map": "/static/js/main.3089326d.js.map",
-    "789.732f3b0a.chunk.js.map": "/static/js/789.732f3b0a.chunk.js.map",
-    "439.312f5ed2.chunk.js.map": "/static/js/439.312f5ed2.chunk.js.map"
+    "main.70669080.css.map": "/static/css/main.70669080.css.map",
+    "main.49ad4bc2.js.map": "/static/js/main.49ad4bc2.js.map",
+    "439.7a096bd3.chunk.js.map": "/static/js/439.7a096bd3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.add0326e.css",
-    "static/js/main.3089326d.js"
+    "static/css/main.70669080.css",
+    "static/js/main.49ad4bc2.js"
   ]
 }
